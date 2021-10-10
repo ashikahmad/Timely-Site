@@ -1,17 +1,18 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: What Timely offers?
 title: >
   ## Features
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Here are the primary features Timely focuses on right now. There are also more configuations
+  and customization to make it to your liking.
 service:
   - content: >
       #### Calendar 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      A simple concise monthly calendar is always ready at your menubar to pop open
+      quickly when you need it. Event-indicators and off-day highlights can also be
+      there to help you plan your work perfectly.
     # image: images/service/ui-ux.svg
     faIcon: "fa-calendar"
   - content: >
