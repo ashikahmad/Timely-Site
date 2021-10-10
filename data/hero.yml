@@ -1,13 +1,15 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Let's Meet
 content: >
-  # I am here for your personal business
+  # Timely
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
-buttonURL: contact
-image: images/image2.png
+  An Elegant Calendar for Your Mac MenuBar. Just One Tap Away When You Need It! And It's Free!!
+  
+
+  Scroll down to discover more cool features!
+# buttonName: Contact me
+# buttonURL: contact
+image: images/screenshots/screenshot-1.png
 # videoThumb: images/hero/popup-thumb.png
 # videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
