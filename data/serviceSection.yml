@@ -1,0 +1,38 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## Features
+
+  Enjoy team diversity and increase their networks among others people in
+  various fields by provided.
+service:
+  - content: >
+      #### Calendar 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    # image: images/service/ui-ux.svg
+    faIcon: "fa-calendar"
+  - content: >
+      #### World-Clock
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    # image: images/service/web.svg
+    faIcon: "fa-clock-o"
+  - content: >
+      #### Daily Events 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    # image: images/service/creative.svg
+    faIcon: "fa-calendar-check-o"
+  - content: >
+      #### Quick Meeting Link
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    # image: images/service/branding.svg
+    faIcon: "fa-video-camera"
+ 
