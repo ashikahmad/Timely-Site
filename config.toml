@@ -1,4 +1,4 @@
-baseURL = 'https://ashikahmad.github.io/Timely-Site/'
+baseURL = 'https://ashikahmad.github.io/timely/'
 languageCode = 'en-us'
 title = 'Timely'
 theme = "Portio"
