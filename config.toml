@@ -4,9 +4,9 @@ title = 'Timely'
 theme = "Portio"
 
 [params]
-footerLogo = "images/icon_64.png"
+footerLogo = "images/icons/icon_64.png"
 footerLogoLabel = "Timely"
-logo = "images/icon_64.png"
+logo = "images/icons/icon_64.png"
 copyright = "All right reserved copyright © BlessedPixels.com 2020"
 
 # Main Menu
@@ -29,7 +29,7 @@ weight = 4
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About me"
+name = "About Timely"
 url = "about"
 weight = 1
 [[menu.sitemap]]

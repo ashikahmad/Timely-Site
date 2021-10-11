@@ -10,30 +10,31 @@ service:
   - content: >
       #### Calendar 
 
-      A simple concise monthly calendar is always ready at your menubar to pop open
-      quickly when you need it. Event-indicators and off-day highlights can also be
-      there to help you plan your work perfectly.
+      Quick simple calendar right on your menubar, just one-click away when you need it. Also in dark/light mode.
     # image: images/service/ui-ux.svg
     faIcon: "fa-calendar"
   - content: >
       #### World-Clock
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      World clocks with elegant digital or analog clock-face. Also set your choice of custom labels to easily identify.
     # image: images/service/web.svg
     faIcon: "fa-clock-o"
   - content: >
       #### Daily Events 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Stay productive and keep going with your daily events quickly accessible to plan and follow through.
     # image: images/service/creative.svg
     faIcon: "fa-calendar-check-o"
   - content: >
       #### Quick Meeting Link
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Quick access to meeting link and other links from the events to take action easily when time comes. 
     # image: images/service/branding.svg
     faIcon: "fa-video-camera"
+  - content: >
+      #### MenuBar Appearance
+
+      Customize menubar item and position to your liking to make Timely your's and get best out of it. 
+    # image: images/service/branding.svg
+    faIcon: "fa-magic"
  
